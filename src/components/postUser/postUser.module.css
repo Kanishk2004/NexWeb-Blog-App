@@ -1,0 +1,21 @@
+.authorInfo {
+    display: flex;
+    gap: 20px;
+}
+.avatarImgContainer {
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.avatarImg {
+    object-fit: contain;
+    border-radius: 50%;
+}
+.authorInfo h3{
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+.authorInfo h2{
+    font-size: 15px;
+}
